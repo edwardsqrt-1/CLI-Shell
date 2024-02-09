@@ -1,4 +1,4 @@
-# CLI-Shell
+# nextShell
 
 ## Introduction
 Description: This program aims to create a Command Line Interface to be used on top of both Windows and UNIX/UNIX-like systems, all the while using the Windows syntax to allow Windows users to transition over to Linux and related systems without having to learn an entirely new command set (though you should anyway). 
