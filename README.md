@@ -1,7 +1,7 @@
 # nextShell
 
 ## Introduction
-Description: This program aims to create a Command Line Interface to be used on top of both Windows and UNIX/UNIX-like systems, all the while using the Windows syntax to allow Windows users to transition over to Linux and related systems without having to learn an entirely new command set (though you should anyway). 
+This program aims to create a Command Line Interface to be used on top of both Windows and UNIX/UNIX-like systems, all the while using the Windows syntax to allow Windows users to transition over to Linux and related systems without having to learn an entirely new command set (though you should anyway). 
 
 Fun fact: Much of this was coded in OpenStep, who knew even ancient systems can help complete modern college assignments! This program mainly being done using OpenStep (a later version of NeXTStep is why I decided to give it the name of nextShell).
 
