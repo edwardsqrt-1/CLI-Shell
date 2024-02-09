@@ -33,3 +33,4 @@ Here are a list of commands you may use with this program:
 `quit` - Exit the shell
 
 ## Notes
+One of the most challenging things I have learned while doing this project is not implementing the system calls, but making sure that no malformed system calls get through that have the potential of screwing something up due to a typo. While no systems were bricked in the making of thsi program, I have had my fair share of moments where the program spirals into an infinite loop and requires a termination of the program entirely. While there are not any deletion commands in this program for an accidental deletion of system files to happen (not to mention that as long as you run it as a user and not an admin/root, it will not harm your core system files), implementing them would be a risky task to take if you do not do it right. After all, the system() function is whhat allows a program to talk to the operating system directly!
