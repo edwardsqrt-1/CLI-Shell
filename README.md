@@ -5,6 +5,8 @@ This program aims to create a Command Line Interface to be used on top of both W
 
 Fun fact: Much of this was coded in OpenStep, who knew even ancient systems can help complete modern college assignments! This program mainly being done using OpenStep (a later version of NeXTStep is why I decided to give it the name of nextShell).
 
+![cover](https://github.com/edwardsqrt-1/nextShell/assets/143363343/ae36699c-4fc8-4270-9d9c-5eb56216f802)
+
 ## System Requirements
 While I have not tested compiling this on many systems with different operating systems, there's really not much that this program needs in terms of operating systems. As long as you have GCC (or in the case of NeXTStep/OpenStep, CC), you can theoretically compile this program on any 32bit or 64bit version of Windows, Linux, or any UNIX system, provided you install the MSYS2 library and set the path to your MinGW's bin folder.
 
